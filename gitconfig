@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = olaf.winkler@mein.gmx
+	name = Olaf Winkler
